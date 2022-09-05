@@ -1,8 +1,9 @@
 # TOP-Landing-Page
-I thought it would be a cool idea to ask my sister for a theme for this landing page, and being obsessed with a new manga series she wanted it dedicated to Jujutsu Kaisen. I thought it would be a 
-cool idea so I went for it.
+Welcome!
+My idea for this TOP landing page was just to have fun office pets as an assistant hiring service. Thought it would be fun so I did it! All the images I have used are not mine and they will be credited.
 
-In an attempt to give credit the sources and images I am using I will list where I found the image here:
+To credit the images I am using I will list where I found the image here:
 
-    Jujutsu High Logo: https://jujutsu-kaisen.fandom.com/wiki/Tokyo_Metropolitan_Curse_Technical_College
-    
+   - Office Dog Photo: https://unsplash.com/photos/zWOQD6fFCBs
+   - Background Image: https://unsplash.com/photos/PhYq704ffdA
+   - 
