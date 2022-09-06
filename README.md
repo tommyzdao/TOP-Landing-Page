@@ -5,5 +5,8 @@ My idea for this TOP landing page was just to have fun office pets as an assista
 To credit the images I am using I will list where I found the image here:
 
    - Office Dog Photo: https://unsplash.com/photos/zWOQD6fFCBs
-   - Background Image: https://unsplash.com/photos/PhYq704ffdA
-   - 
+   - Reggie : https://unsplash.com/photos/KZv7w34tluA
+   - Edward : https://www.pexels.com/photo/grey-fur-kitten-127028/
+   - Karl : https://www.pexels.com/photo/a-person-petting-a-long-tailed-chinchilla-4547060/
+   - Nina : https://www.pexels.com/photo/beige-rabbit-resting-on-green-grasses-during-daytime-104373/
+   - Frame : https://unsplash.com/photos/2PN18U8CKi0
