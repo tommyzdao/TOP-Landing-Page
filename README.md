@@ -10,3 +10,5 @@ To credit the images I am using I will list where I found the image here:
    - Karl : https://www.pexels.com/photo/a-person-petting-a-long-tailed-chinchilla-4547060/
    - Nina : https://www.pexels.com/photo/beige-rabbit-resting-on-green-grasses-during-daytime-104373/
    - Frame : https://unsplash.com/photos/2PN18U8CKi0
+   - Background for call to action panel : https://as2.ftcdn.net/v2/jpg/02/27/90/73/1000_F_227907364_khP5XEEpOVFw1lPiPPF32sBE1FAEbJUB.jpg
+   

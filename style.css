@@ -86,6 +86,51 @@ a {
     align-items: center;
 }
 
+.content-4 {
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: url(https://as2.ftcdn.net/v2/jpg/02/27/90/73/1000_F_227907364_khP5XEEpOVFw1lPiPPF32sBE1FAEbJUB.jpg)
+}
+
+.box {
+   display: flex;
+   width: 900px;
+   height: 200px;
+   border-radius: 25px;
+   font-family: monospace, OCR A Std;
+   font-size: smaller;
+   justify-content: space-between;
+    background: url(https://images.unsplash.com/photo-1607457561901-e6ec3a6d16cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
+}
+
+.sign-up-button {
+    height: 50px;
+    position: relative; right: 100px;
+    position: relative; top: 70px;
+    width: 100px;
+}
+
+.content-4-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-4-header {
+    position: relative; left: 30px;
+}
+
+.content-4-text {
+    position: relative; left: 100px;
+    position: relative; bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .quote {
     font-size: x-large;
     font-family: cursive, Apple Chancery;
@@ -99,6 +144,10 @@ a {
 
 .footer {
     background-color: cadetblue;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .welcome-text {
@@ -148,9 +197,6 @@ button {
     border-radius: 50%;
 }
 
-.frame-1 {
-}
-
 .info-text {
     display: flex;
     max-width: 200px;
@@ -163,4 +209,5 @@ button {
 h2 {
     position: relative; left: 60px;
 }
+
 
